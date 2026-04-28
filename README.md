@@ -6,10 +6,10 @@ A comprehensive QA project covering test strategy, manual testing, and web autom
 
 Item	                      Details
 Application under test	    nopCommerce (e-commerce platform)
-Testing types	              Manual, Functional, API, Web Automation
+Testing types	             Manual, Functional, API, Web Automation
 Automation tools	          Cypress (web), Postman (API)
 Bug tracking	              Jira
-API testing target	        Fake Store API (used as substitute for nopCommerce API)
+API testing target	        Fake Store API (used as a substitute for nopCommerce API)
 
 **What's Inside**
 1. Environment Setup
