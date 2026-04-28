@@ -14,7 +14,7 @@ API testing target	        Fake Store API (used as a substitute for nopCommerce 
 **What's Inside**
 1. Environment Setup
 
-Configured nopCommerce locally for web testing
+Configured nopCommerce locally for web testing using docker
 Set up Cypress for end-to-end web automation
 Integrated Fake Store API for API testing (nopCommerce token authorization not available)
 
